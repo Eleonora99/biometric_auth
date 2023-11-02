@@ -19,4 +19,7 @@ To implement this approach, a 3x3 window is moved across the image. At each posi
 
 <img width="625" alt="lbp-labeling" src="https://github.com/Eleonora99/biometric_auth/assets/68509977/de1c3203-6b4b-42b3-a12d-bb96668159e4">
 
-After training data it is possible to authenticate and profile user according their identity.
+After training data it will be possible to authenticate and profile user according their identity.
+
+Project is still in working progress.
+
